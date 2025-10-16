@@ -1,0 +1,4 @@
+# Ignore visual studio/IDE settings
+.vs/
+obj/
+bin/
